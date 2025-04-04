@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:29:05	140497/140497	---M-Z	200	added ('OK')	text/html	etag:W/%22c79c0bcb9a0320c72559b5c020ee1b94--gzip%22	https://www.squaremoon.ie/moonies	/root/squaremoon-site/moonies.html	(from )
+16:29:05	122129/122129	---M-Z	200	added ('OK')	text/html	etag:W/%22eb534efc5e407a686a7743f3a4d530e1--gzip%22	https://www.squaremoon.ie/contact	/root/squaremoon-site/contact.html	(from )
+16:29:06	118574/118574	---M-Z	200	added ('OK')	text/html	etag:W/%22cebbb06753d16c3ce5dbd7b5422f9e9e--gzip%22	https://www.squaremoon.ie/	/root/squaremoon-site/index-2.html	(from )
+16:29:06	92135/92135	---M-Z	200	added ('OK')	text/html	etag:W/%229ce3bee0752104c4de04d0fc166ec9e6%22	https://www.squaremoon.ie/privacy	/root/squaremoon-site/privacy.html	(from )
+16:29:07	93052/93052	---M-Z	200	added ('OK')	text/html	etag:W/%220104868cdd462ec94d03a3a8ad5a4871--gzip%22	https://www.squaremoon.ie/cookie	/root/squaremoon-site/cookie.html	(from )
+16:29:09	381/381	---M-Z	200	added ('OK')	text/plain	date:Fri,%2028%20Mar%202025%2016:29:08%20GMT	https://www.squaremoon.ie/robots.txt		(from )
+16:29:10	76089/76089	---MCZ	200	added ('OK')	text/html	date:Fri,%2028%20Mar%202025%2016:29:09%20GMT	https://www.squaremoon.ie/cart	/root/squaremoon-site/cart.html	(from https://www.squaremoon.ie/)

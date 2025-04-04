@@ -1,0 +1,11 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Fri, 28 Mar 2025 16:29:04 at https://www.squaremoon.ie/ https://www.squaremoon.ie/moonies https://www.squaremoon.ie/contact https://www.squaremoon.ie/privacy https://www.squaremoon.ie/cookie
+(httrack https://www.squaremoon.ie/ https://www.squaremoon.ie/moonies https://www.squaremoon.ie/contact https://www.squaremoon.ie/privacy https://www.squaremoon.ie/cookie -O /root/squaremoon-site -N100 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-4 mirror complete in 6 seconds : 7 links scanned, 6 files written (642476 bytes overall) [127673 bytes received at 21278 bytes/sec], 642857 bytes transferred using HTTP compression in 7 files, ratio 19%
+(No errors, 0 warnings, 0 messages)
