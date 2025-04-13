@@ -1,11 +1,19 @@
-HTTrack3.49-4+libhtsjava.so.2 launched on Fri, 28 Mar 2025 16:29:04 at https://www.squaremoon.ie/ https://www.squaremoon.ie/moonies https://www.squaremoon.ie/contact https://www.squaremoon.ie/privacy https://www.squaremoon.ie/cookie
-(httrack https://www.squaremoon.ie/ https://www.squaremoon.ie/moonies https://www.squaremoon.ie/contact https://www.squaremoon.ie/privacy https://www.squaremoon.ie/cookie -O /root/squaremoon-site -N100 )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-
-HTTrack Website Copier/3.49-4 mirror complete in 6 seconds : 7 links scanned, 6 files written (642476 bytes overall) [127673 bytes received at 21278 bytes/sec], 642857 bytes transferred using HTTP compression in 7 files, ratio 19%
-(No errors, 0 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Apr 2025 22:56:13 at https://static.squaremoon.ie +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.squarespace.com/* +*.typekit.net/* +*.googleapis.com/* +*.cloudfront.net/*
+(winhttrack -qwr3%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://static.squaremoon.ie -O1 "C:\My Web Sites\static.squaremoon.ie" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.squarespace.com/* +*.typekit.net/* +*.googleapis.com/* +*.cloudfront.net/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:57:33	Error: 	"Not Found" (404) at link https://static.squaremoon.ie/index-2.html (from https://static.squaremoon.ie/)
+22:57:35	Warning: 	Moved Temporarily for https://use.typekit.net/
+22:57:35	Warning: 	File has moved from https://use.typekit.net/ to https://fonts.adobe.com/
+22:57:35	Warning: 	Moved Permanently for https://p.typekit.net/
+22:57:35	Warning: 	File has moved from https://p.typekit.net/ to https://typekit.com/
+22:57:36	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://static.squaremoon.ie/)
+22:57:36	Error: 	"Bad Request" (400) at link https://fonts.googleapis.com/css2?family=Archivo+Black:ital,wght@0,500 (from https://static.squaremoon.ie/)
+22:57:37	Error: 	"Not Found" (404) at link https://www.w3.org/2000/symbol (from https://static.squaremoon.ie/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 27 seconds : 55 links scanned, 40 files written (12697714 bytes overall) [4426093 bytes received at 50874 bytes/sec], 10741590 bytes transferred using HTTP compression in 39 files, ratio 22%, 1.5 requests per connection
+(4 errors, 4 warnings, 0 messages)

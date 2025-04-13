@@ -1,4 +1,12 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-www.squaremoon.ie	TRUE	/	FALSE	1999999999	crumb	BVmi+/2tPZw+NTk0MDJkZDIwNTFhMGM5OGVhYTNjZmZhMjRhZGEx
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	Wvn514IrbD5Rw37QCW6z4mkx78nDgxIhQ5is6pAfIjo-1744581448-1.0.1.1-P0QTqTj3SvJnYIMCfdW1snFPoLCbZeWML1Lpi8WvJD9dGZJG.J2mv._3fpsKgIfd3tvUfx_7xjc3oMAKKIUUMyk1xR9eFRWMG9EwXMyeYCk
+.www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:0377677954275228537
+linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST01:s=O:r=O:a=O:p=O:g=3583:u=1:x=1:i=1744581452:t=1744667852:v=2:sig=AQFr2yAUlnEoaui_tGRk1mq9ynlwD4Fs"
+.linkedin.com	TRUE	/	FALSE	1999999999	__cf_bm	iJYbLsjsA7nmGLXKdTqxbIBRlxZ.Il7II3KpQMQpq4o-1744581452-1.0.1.1-_vKRqbVj8heQfbX2xG33ykCssh.6OWt1Uts0xSJKIK_aJChhehbswITe.Ap9DUFkkUPNAQepYuDmvmwUcXZFTrYYYGcN3y7tEgSueINNIqE
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&4f83fc32-0e76-41a4-8fe1-5b22f395e5aa"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20250413215740c3f0e81f-6a24-46b8-8efb-ad22a9d95b12AQFvpROgoszR5MB1lcSrQZZBEDbQOIEM"
+.linkedin.com	TRUE	/	FALSE	1999999999	li_gc	MTswOzE3NDQ1ODE0NjA7MjswMjE79XjSxunww+GkT1qu8lbM3s9T8uStJ/JVY0T2EywZOQ==
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
 
