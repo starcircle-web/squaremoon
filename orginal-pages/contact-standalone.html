@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0D1B2A; /* Dark background */
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        form {
+            background: #132238; /* Dark form background */
+            padding: 20px;
+            border-radius: 10px;
+            width: 400px;
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 10px;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #444;
+            border-radius: 5px;
+            background: #1E2A3A;
+            color: white;
+        }
+        button {
+            background-color: #17C3B2; /* Teal button */
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 10px;
+            width: 100%;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #14A598;
+        }
+    </style>
+</head>
+<body>
+
+    <form action="https://formspree.io/f/mrbpapnk" method="POST">
+        <label for="first-name">First Name (required)</label>
+        <input type="text" id="first-name" name="first-name" required>
+
+        <label for="last-name">Last Name (required)</label>
+        <input type="text" id="last-name" name="last-name" required>
+
+        <label for="email">Work Email (required)</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">Phone</label>
+        <input type="tel" id="phone" name="phone">
+
+        <label for="company">Company Name</label>
+        <input type="text" id="company" name="company">
+
+        <label for="role">Your Current Role</label>
+        <input type="text" id="role" name="role">
+
+        <label for="hear-about">How did you hear about us? (required)</label>
+        <select id="hear-about" name="hear-about" required>
+            <option value="LinkedIn">LinkedIn</option>
+            <option value="Google Search">Google Search</option>
+            <option value="Email / Conference">Email / Conference</option>
+            <option value="Word of Mouth / Referral">Word of Mouth / Referral</option>
+            <option value="Event">Event</option>
+            <option value="Other">Other (Describe in message)</option>
+        </select>
+
+        <label for="message">Message (required)</label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
