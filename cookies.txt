@@ -1,4 +1,13 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-www.squaremoon.ie	TRUE	/	FALSE	1999999999	crumb	BVmi+/2tPZw+NTk0MDJkZDIwNTFhMGM5OGVhYTNjZmZhMjRhZGEx
+www.squaremoon.ie	TRUE	/	FALSE	1999999999	crumb	BVrWDWFjuE0wNDIxZThlOWNlNTU0NzA1YTAyMjQ5ZTM4NWRhMTI4
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	KQ.Efx6pgNqWL8q75MknWoQ1G1v7KmETZDqJ3t_nimE-1744570821-1.0.1.1-vSWWDtLFrKpbqCF3auxRY1x7VJf.sL6_XpsSAkyY5RAx4W.Pnf9SksTZC5ExPHVcsD9xa7oMrvstEpH81avac_P0VkQXqtgBgCk6aNqQoVM
+.www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:6983863692424451624
+linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST01:s=O:r=O:a=O:p=O:g=3583:u=1:x=1:i=1744570850:t=1744657250:v=2:sig=AQH_JNjDwJdrpbd9LN39-vzk8NXBSzkj"
+.linkedin.com	TRUE	/	FALSE	1999999999	__cf_bm	iWgWj380FH_9OxjzWNehcTTT9KJeeTF5ocTM1o_Q6ow-1744570850-1.0.1.1-Kn74RTHjV2ddubKREqRQLZlpvFRtK6w9ENmsrD0KkIY6nzhopaIrvuCifebaAOb8HLc2E9eXL.YDuZPjdy5Ma9KqGF9btsTBL.8HC_90At8
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&127e9cd3-e976-4cb7-8ed2-6dff84aa70cc"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&2025041319010062c4698f-0b8e-47d1-8079-f365a6f8cee4AQEnmWnjL_4zylulfWmiuG7ESAqW4GQh"
+.linkedin.com	TRUE	/	FALSE	1999999999	li_gc	MTswOzE3NDQ1NzA4NjA7MjswMjF1sR+aHgxHtLXlZ5f0Hb6zzdLXzsCx8jjrhqwXzy/zIQ==
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
 

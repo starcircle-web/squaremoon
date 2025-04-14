@@ -1,5 +1,5 @@
-https://www.squaremoon.ie/ https://www.squaremoon.ie/moonies https://www.squaremoon.ie/contact https://www.squaremoon.ie/privacy https://www.squaremoon.ie/cookie -O /root/squaremoon-site -N100
-File generated automatically on Fri, 28 Mar 2025 16:29:04, do NOT edit
+-qwr3%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.squaremoon.ie -O1 "C:\My Web Sites\squaremoon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.squarespace.com/* +*.typekit.net/* +*.googleapis.com/* +*.cloudfront.net/*
+File generated automatically on Sun, 13 Apr 2025 19:59:49, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

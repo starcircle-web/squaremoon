@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Us</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f1a2c;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 960px;
+      margin: auto;
+      padding: 60px 20px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 36px;
+      color: #ffffff;
+    }
+    h1 span {
+      color: #30e0b8;
+    }
+    p.subtext {
+      text-align: center;
+      font-size: 16px;
+      max-width: 600px;
+      margin: 20px auto 40px;
+      color: #ccc;
+    }
+    form {
+      background: #1a273f;
+      padding: 30px;
+      border-radius: 10px;
+    }
+    .form-row {
+      display: flex;
+      gap: 20px;
+    }
+    .form-item {
+      flex: 1;
+      margin-bottom: 20px;
+    }
+    label {
+      display: block;
+      margin-bottom: 6px;
+      font-weight: bold;
+      color: #ccc;
+    }
+    input, select, textarea {
+      width: 100%;
+      padding: 12px;
+      border-radius: 6px;
+      border: none;
+      background: #24344f;
+      color: #fff;
+    }
+    textarea {
+      resize: vertical;
+    }
+    .form-button-wrapper {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .form-button-wrapper input[type="submit"] {
+      background-color: #30e0b8;
+      color: #000;
+      font-weight: bold;
+      padding: 14px 40px;
+      font-size: 16px;
+      border: none;
+      border-radius: 30px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Transform Your <span>Hiring</span> Today</h1>
+  <p class="subtext">
+    Discover how Squaremoon's network of global hiring experts can transform your hiring,
+    giving you the flexibility and scale you need, when you need it. Contact us below to find out how.
+  </p>
+
+  <form action="https://formspree.io/f/mrbpapnk" method="POST">
+    <div class="form-row">
+      <div class="form-item">
+        <label for="first-name">First Name *</label>
+        <input type="text" id="first-name" name="first-name" required>
+      </div>
+      <div class="form-item">
+        <label for="last-name">Last Name *</label>
+        <input type="text" id="last-name" name="last-name" required>
+      </div>
+    </div>
+
+    <div class="form-item">
+      <label for="email">Work Email *</label>
+      <input type="email" id="email" name="email" required>
+    </div>
+
+    <div class="form-item">
+      <label for="phone">Phone</label>
+      <input type="tel" id="phone" name="phone">
+    </div>
+
+    <div class="form-item">
+      <label for="company">Company Name</label>
+      <input type="text" id="company" name="company">
+    </div>
+
+    <div class="form-item">
+      <label for="role">Your Current Role</label>
+      <input type="text" id="role" name="role">
+    </div>
+
+    <div class="form-item">
+      <label for="hear-about">How did you hear about us? *</label>
+      <select id="hear-about" name="hear-about" required>
+        <option value="LinkedIn">LinkedIn</option>
+        <option value="Google Search">Google Search</option>
+        <option value="Email / Conference">Email / Conference</option>
+        <option value="Word of Mouth / Referral">Word of Mouth / Referral</option>
+        <option value="Event">Event</option>
+        <option value="Other">Other (Describe in message)</option>
+      </select>
+    </div>
+
+    <div class="form-item">
+      <label for="message">Message *</label>
+      <textarea id="message" name="message" rows="5" required></textarea>
+    </div>
+
+    <div class="form-button-wrapper">
+      <input type="submit" value="Submit">
+    </div>
+  </form>
+</div>
+
+</body>
+</html>
